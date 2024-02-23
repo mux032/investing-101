@@ -1,0 +1,4 @@
+website_url: 'https://www.advisorkhoj.com/mutual-funds-research/mutual-fund-portfolio-overlap'
+webdriver_path: 'resources/chromedriver'
+funds_list_file_path: 'resources/funds_list.txt'
+output_file_path: 'output/stocks_data_all_pairs.csv'
